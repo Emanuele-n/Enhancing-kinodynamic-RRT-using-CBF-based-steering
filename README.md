@@ -15,8 +15,8 @@ planner has been carried out.
 The main file is [v_repExtAMRProject](v_repExtAMRProject.cpp)
 
 ## Documentation
-A detailed report of the project<br />
-The presentation we gave
+A detailed [report](AMR_report.pdf) of the project<br />
+The [presentation](AMR_FP6_presentation.pptx) we gave
 
 ## Resources used
 * [CoppeliaSim](https://www.coppeliarobotics.com/)<br />
