@@ -12,16 +12,18 @@ collision checks. The planner has been be tested through V-REP/CoppeliaSim simul
 scenarios using a nonholonomic system (e.g., a unicycle) and a critical comparison with the basic RRT
 planner has been carried out.
 
+The main file is [v_repExtAMRProject](v_repExtAMRProject.cpp)
+
 ## Documentation
 A detailed report of the project<br />
 The presentation we gave
 
 ## Resources used
-[CoppeliaSim](https://www.coppeliarobotics.com/)<br />
-[Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)<br />
-[qoOASES](https://www.coin-or.org/qpOASES/doc/3.2/doxygen/index.html)
+* [CoppeliaSim](https://www.coppeliarobotics.com/)<br />
+* [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)<br />
+* [qoOASES](https://www.coin-or.org/qpOASES/doc/3.2/doxygen/index.html)
 
 ## Authors
-G. Giunta <br />
-E. Nicotra <br />
-A. Paggetti
+* G. Giunta <br />
+* E. Nicotra <br />
+* A. Paggetti
