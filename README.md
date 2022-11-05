@@ -21,7 +21,7 @@ The [presentation](AMR_FP6_presentation.pptx) we gave
 ## Resources used
 * [CoppeliaSim](https://www.coppeliarobotics.com/)<br />
 * [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)<br />
-* [qoOASES](https://www.coin-or.org/qpOASES/doc/3.2/doxygen/index.html)
+* [qpOASES](https://www.coin-or.org/qpOASES/doc/3.2/doxygen/index.html)
 
 ## Authors
 * G. Giunta <br />
